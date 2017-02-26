@@ -1,0 +1,28 @@
+
+;; ----- smex-history -----
+(
+ paredit-mode
+ cider-restart
+ cider-inspect-last-result
+ cider-jack-in
+ cider-mode
+ find-library
+ package-delete
+)
+
+;; ----- smex-data -----
+(
+ (package-list-packages . 3)
+ (package-autoremove . 1)
+ (package-refresh-contents . 1)
+ (package-install . 8)
+ (package-reinstall . 1)
+ (evil-mode . 1)
+ (find-library . 6)
+ (package-delete . 1)
+ (cider-mode . 1)
+ (cider-jack-in . 2)
+ (cider-inspect-last-result . 3)
+ (cider-restart . 2)
+ (paredit-mode . 1)
+)

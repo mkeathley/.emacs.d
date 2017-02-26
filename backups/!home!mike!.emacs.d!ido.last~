@@ -1,0 +1,56 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/mike/" . ".emacs.d/")
+ ("/home/mike/.emacs.d/elpa/" . "which-key-20170209.729/")
+ ("/home/mike/.emacs.d/" . "customizations/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mike/.emacs.d/customizations/"
+ "/home/mike/.emacs.d/"
+ "/home/mike/.emacs.d/elpa/which-key-20170209.729/"
+ "/home/mike/.emacs.d/elpa/evil-leader-20140606.543/"
+ "/home/mike/Documents/"
+ "/home/mike/.emacs.d/elpa/evil-20170219.629/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "misc.el"
+ "evil-leader-cust.el"
+ "which-key-cust.el"
+ "init.el"
+ "evil-leader.el"
+ "which-key.el"
+ "evil-mode.el"
+ "ui.el"
+ "navigation.el"
+ "elisp-editing.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mike/.emacs.d/customizations/" (22706 14665 5640 828000) "misc.el" "which-key-cust.el" "evil-mode-cust.el" "setup-js.el" "navigation.el" "../" "shell-integration.el" "editing.el" "ui.el" "./" "setup-clojure.el" "elisp-editing.el" "evil-leader-cust.el")
+
+ ("/home/mike/.emacs.d/" (22706 14669 495607 687000) ".recentf" "elpa/" "../" "backups/" "ido.last" "themes/" "./" "README.md" "auto-save-list/" "network-security.data" "init.el~" "projectile-bookmarks.eld" ".smex-items" "init.el" "customizations/")
+
+ ("/home/mike/" (22706 14220 598914 161000) ".bash_history" ".fonts/" "TEST" ".steampath" ".config/" "dotfiles/" ".ICEauthority" ".bash_profile" "OneDrive/" "Documents/" "Public/" ".steam/" ".zcompdump-bigboogielibre-5.3.1" "../" ".zsh-update" ".Xauthority" ".cache/" ".m2/" ".xsession-errors" "code/" ".oh-my-zsh/" ".xsession-errors.old" ".dmrc" ".Xresources" ".zsh_history" "Downloads/" ".viminfo" ".bashrc" ".pulse-cookie" ".local/" "Desktop/" ".bash_logout" "./" "Music/" ".zshrc" ".urxvt/" ".lein/" ".esd_auth" ".xscreensaver" ".emacs.d/" "bin/" ".zshrc.pre-oh-my-zsh" ".gnupg/" ".steampid" ".gitconfig" ".zcompdump" ".ssh/" "Videos/" "Templates/" ".spacemacs" "emacs.d.backup/" ".Xresources.d/" ".gnome/" "Pictures/" ".histfile" ".pki/")
+
+ ("/home/mike/.emacs.d/elpa/which-key-20170209.729/" (22706 11736 650129 38000) "../" "which-key.el" "./" "which-key-autoloads.el" "which-key-pkg.el" "which-key.elc")
+
+ ("/home/mike/.emacs.d/elpa/evil-20170219.629/" (22706 11730 946839 279000) "evil-commands.el" "version.info" "evil-ex.el" "evil-command-window.el" "evil-autoloads.el" "evil-core.el" "evil-ex.elc" "evil-search.el" "evil-maps.el" "evil-jumps.elc" "evil-pkg.el" "evil-digraphs.el" "../" "evil-integration.el" "evil-states.elc" "evil-macros.elc" "evil-repeat.el" "evil-macros.el" "evil-common.el" "evil-types.el" "evil-vars.el" "dir" "./" "evil-search.elc" "evil-integration.elc" "evil-states.el" "evil-maps.elc" "evil.el" "evil-commands.elc" "evil-types.elc" "evil-command-window.elc" "evil-digraphs.elc" "evil-vars.elc" "macros.info" "fdl-1.3.info" "evil-jumps.el" "evil-repeat.elc" "evil.info" "evil-common.elc" "evil.elc" "evil-core.elc")
+
+ ("/home/mike/.emacs.d/elpa/evil-leader-20140606.543/" (22706 11731 306836 528000) "evil-leader.elc" "../" "evil-leader.el" "evil-leader-autoloads.el" "./" "evil-leader-pkg.el")
+
+ ("/home/mike/.emacs.d/elpa/" (22706 11736 506796 799000) "cider-20170129.1941/" "evil-20170219.629/" "popup-20160709.729/" "paredit-20160615.1325/" "clojure-mode-20170120.2239/" "spinner-1.7.3.signed" "magit-popup-20170214.347/" "clojure-mode-extra-font-locking-20160307.414/" "goto-chg-20131228.659/" "projectile-20170106.606/" "tagedit-20161121.55/" "helm-20170225.1135/" "../" "magit-20170225.845/" "dash-20170207.2056/" "evil-escape-20170115.1343/" "evil-leader-20140606.543/" "seq-2.19.signed" "async-20170219.942/" "pkg-info-20150517.443/" "queue-0.1.1/" "./" "exec-path-from-shell-20170212.2116/" "helm-core-20170223.2326/" "spinner-1.7.3/" "undo-tree-20161012.701/" "epl-20150517.433/" "gnupg/" "evil-nerd-commenter-20170222.259/" "ido-ubiquitous-20170211.1432/" "which-key-20170209.729/" "git-commit-20170214.347/" "rainbow-delimiters-20160430.2358/" "s-20160928.636/" "with-editor-20170111.609/" "ido-completing-read+-20161211.910/" "seq-2.19/" "smex-20151212.1409/" "archives/" "queue-0.1.1.signed")
+
+ ("/home/mike/Documents/" (22706 1197 553093 544000) "../" "./" "packages.txt")
+
+ ("/home/" (22696 48298 268380 795000) "../" "./" "mike/")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

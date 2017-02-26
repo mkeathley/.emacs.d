@@ -1,0 +1,5 @@
+;; -*- coding: utf-8-unix -*-
+;; Automatically written history of CIDER REPL session
+;; Edit at your own risk
+
+("(reduce #(conj %1 (:name %2)) '() (mapify (parse (slurp filename))))" "(mapify (parse (slurp filename)))" "(reduce #(:name %) '() (mapify (parse (slurp filename))))" "(glitter-filter 3 (mapify (parse (slurp filename))))" "(first (mapify (parse (slurp filename))))" "(parse (slurp filename))" "(slurp filename)")

@@ -1,0 +1,4 @@
+;; (add-to-list 'load-path "~/emacs.d/elpa/which-key-20170209.729/which-key.el")
+(require 'which-key)
+(which-key-mode)
+(which-key-setup-minibuffer)
